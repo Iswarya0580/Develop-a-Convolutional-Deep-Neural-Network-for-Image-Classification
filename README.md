@@ -7,7 +7,8 @@ To develop a convolutional deep neural network (CNN) for image classification an
 Develop a CNN (Convolutional Neural Network) model using PyTorch to classify images from the Fashion-MNIST dataset into 10 clothing categories such as shirt, shoe, bag, and dress.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1705" height="770" alt="image" src="https://github.com/user-attachments/assets/3e172f19-6412-4a29-b94c-85aadd8cbdb9" />
+
 
 ## DESIGN STEPS
 
